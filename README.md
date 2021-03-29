@@ -28,7 +28,7 @@ Our project goal is to rewrite our challenge 6 into a mobile-friendly app. We wi
 
 Here are the links to our work:
 
-https://github.com/bctan87/weatherBee
+https://azun510.github.io/weatherBee/
 
 https://bctan87.github.io/weatherBee/
 
