@@ -65,33 +65,3 @@ Here's an example of a successful search
 ![sc9](/assets/images/sc9.png)
 
 ![sc10](/assets/images/sc10.png)
-
-## Credits 
-
-https://www.w3schools.com/
-
-https://developer.mozilla.org/en-US/
-
-https://htmlcheatsheet.com/js/
-
-https://stackoverflow.com/
-
-https://codepen.io/
-
-https://leetcode.com
-
-https://eloquentjavascript.net/
-
-https://www.udemy.com/course/advanced-javascript-concepts/
-
-https://medium.com/javascript-in-plain-english/the-20-most-popular-programming-articles-of-2020-289d22fbd35e
-
-https://openweathermap.org/guide
-
-https://momentjs.com
-
-https://www.epa.gov/sunsafety/uv-index-scale-0
-
-https://materializecss.com/
-
-https://developers.google.com/maps/documentation/embed/get-started
