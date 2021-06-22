@@ -1,16 +1,8 @@
 # WeatherBee
 
-## Participants
-
-### Andrew Zuniga
-FE (HTML, CSS, Materialize)
-
-### Ben Tan
-BE (JS, API, Materialize)
-
 ## Project Purpose:
 
-Our project goal is to rewrite our challenge 6 into a mobile-friendly app. We will use the same APIs used, but we will add an additional API for the new features.
+The project goal is to create a mobile-friendly weather application.
 
 ## Main Features:
 
@@ -31,10 +23,6 @@ Here are the links to our work:
 https://github.com/azun510/weatherBee
 
 https://azun510.github.io/weatherBee/
-
-https://group12-bootcamp.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=G12&selectedIssue=G12-6
-
-https://group12-bootcamp.atlassian.net/wiki/spaces/G12/pages/29982724/Group+12
 
 ## Usage
 
