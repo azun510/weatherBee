@@ -10,7 +10,7 @@ function start() {
 
   // Google API key
 
-  const apiKey2 = "AIzaSyACE8Aln8u0LgGMaaYm1_zSo02wXyNSo38";
+  const apiKey2 = "AIzaSyD44BoM_Zbyom8wdRHyA7ykWiTEnszrlIo";
 
   // Google API Endpoints
   let api4 = "https://www.google.com/maps/embed/v1/place?q=";
